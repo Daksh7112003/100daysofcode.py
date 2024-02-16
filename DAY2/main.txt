@@ -1,4 +1,4 @@
-#In day2 we learn how to implement pyhton in industry..
+#In day2 we learn how to implement python in industry..
 
 
 
