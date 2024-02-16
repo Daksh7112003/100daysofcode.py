@@ -1,0 +1,13 @@
+Module – Module or library is a file that contains definitions of several functions, classes, variables, etc., which is written by someone else for us to use.
+
+Pip – Pip is a package manager for Python, i.e., pip command can be used to download any external module in Python. It is something that helps us to get code written by someone else.
+
+We can install a module in our system by using the pip command :
+
+There are two types of modules in Python:
+
+Built-in Modules:
+Built-in modules are pre-installed in Python, i.e., there is no need to download them. These modules come with the python interpreter itself. For example– random, os etc. 
+External Modules:
+These are the modules that are not pre-installed in Python, i.e., we need to download them before using them in our program. For example:– Flask, Pandas, TensorFlow, etc .
+
