@@ -1,0 +1,5 @@
+#In day2 we learn how to implement pyhton in industry..
+
+
+
+Some information about the projects ...
