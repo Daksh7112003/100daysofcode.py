@@ -2,8 +2,6 @@
 
 
 
-
-
 a="hArry"
 print(len(a))
 print(a.upper())
