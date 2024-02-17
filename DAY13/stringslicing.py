@@ -17,6 +17,9 @@ print(b[0:len(b)-3]) # can also written in this format .....
 
 
 
+# work
+
+
 
 nm = "harry"
-print(nm[-4:-2])
+print(nm[-4:-2]) 
