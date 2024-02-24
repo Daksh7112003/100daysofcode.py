@@ -23,5 +23,7 @@ for i in name:
 
 for k in range(1,12,3):
     print(k)
-
+# the output for this will be 1 4 7 10 because the 3rd input will increment the loop value like k+=3 ....
+    
+    
     
