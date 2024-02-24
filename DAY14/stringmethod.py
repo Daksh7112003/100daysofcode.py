@@ -2,8 +2,6 @@
 
 
 
-
-
 a="hArry"
 print(len(a))
 print(a.upper())
@@ -25,5 +23,7 @@ print(a.endswith("!!!"))  # output will be false...
 
 
 
-print(a.startswith("hA")) # same like ends and startwith fxn.......
+print(a.startswith("hA"))  # same like ends and startwith fxn.......
 print(a.istitle())
+
+
